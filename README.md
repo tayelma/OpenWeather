@@ -100,8 +100,11 @@ Using the `matplotlib` library, the code in `interactive-visualisation.py` displ
 
 To view the above run ` streamlit run interactive-visualisation.py `, this should open your visualisation in your default browser automatically. If not you can click on the urls that will be provided in the output to display the visualisation.
 
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/c52f624b-61c6-4871-80d1-02e31d3a5588)
 
-![img_3.png](img_3.png)
+![image](https://github.com/user-attachments/assets/e187ddd2-bd11-43d4-9a34-f297f1546db4)
+
+
+
 
 
